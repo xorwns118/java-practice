@@ -1,4 +1,4 @@
-package ch01;
+package Section2.ch01;
 
 public class HelloWorld {
 	public static void main(String[] args) {
